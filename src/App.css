@@ -1,0 +1,17 @@
+.App{
+ background-color: pink; 
+ height: 100vh;
+}
+.search-bar-container{
+  padding-top: 20vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
+h1{
+  text-align: center;
+  color: purple;
+}
